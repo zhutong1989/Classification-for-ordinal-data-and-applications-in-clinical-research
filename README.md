@@ -17,7 +17,7 @@ Project Description <br />
         - Demographic variables (age, gender, handness) <br />
         - High-dimension MRI image data to measure mean fractional anisotropy and gray matter volume for different  <br />
           brain regions (all continuous). 222 predictors. <br />
-  - Typical n <p datasets. <br />
+  - Typical n < p datasets. <br />
   - Reduced dataset (all demographic variables and 20 most important predictors obtained from prior information) <br />
   
 <br />
