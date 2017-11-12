@@ -13,8 +13,9 @@ Project Description
   -Data set: 99 patients, 25 normal, 39 mild depression and 35 severe depression
   -Purpose: Predict depression level (normal < mild < severe)
   -Predictors :
-    - Demographic variables (age, gender, handness)
-    - High-dimension MRI image data to measure mean fractional anisotropy and gray matter volume for different brain regions (all continuous). 222 predictors.
+      - Demographic variables (age, gender, handness)
+      - High-dimension MRI image data to measure mean fractional anisotropy and gray matter volume for different 
+        brain regions (all continuous). 222 predictors.
   -Typical n <p datasets.
   -Reduced dataset (all demographic variables and 20 most important predictors obtained from prior information)
   
