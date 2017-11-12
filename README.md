@@ -10,14 +10,14 @@ This topic was accepted by 2016 ASA Conference on Statistical Practice (CSP 2016
 
 
 Project Description <br />
-  -Data set: 99 patients, 25 normal, 39 mild depression and 35 severe depression <br />
-  -Purpose: Predict depression level (normal < mild < severe) <br />
-  -Predictors : <br />
-      - Demographic variables (age, gender, handness) <br />
-      - High-dimension MRI image data to measure mean fractional anisotropy and gray matter volume for different  <br />
-        brain regions (all continuous). 222 predictors. <br />
-  -Typical n <p datasets. <br />
-  -Reduced dataset (all demographic variables and 20 most important predictors obtained from prior information) <br />
+  - Data set: 99 patients, 25 normal, 39 mild depression and 35 severe depression <br />
+  - Purpose: Predict depression level (normal < mild < severe) <br />
+  - Predictors :    <br />
+        - Demographic variables (age, gender, handness) <br />
+        - High-dimension MRI image data to measure mean fractional anisotropy and gray matter volume for different  <br />
+          brain regions (all continuous). 222 predictors. <br />
+  - Typical n <p datasets. <br />
+  - Reduced dataset (all demographic variables and 20 most important predictors obtained from prior information) <br />
   
   
 Results <br />
