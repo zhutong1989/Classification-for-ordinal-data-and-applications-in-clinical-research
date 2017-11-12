@@ -7,7 +7,8 @@ severe ordinal response)
 Made comparison of the performance of each model under higher and lower dimensional feature
 
 This topic was accepted by 2016 ASA Conference on Statistical Practice (CSP 2016)
-
+<br />
+<br />
 
 Project Description <br />
   - Data set: 99 patients, 25 normal, 39 mild depression and 35 severe depression <br />
@@ -19,6 +20,7 @@ Project Description <br />
   - Typical n <p datasets. <br />
   - Reduced dataset (all demographic variables and 20 most important predictors obtained from prior information) <br />
   
+<br />
   
 Results <br />
   - Pre-processing is very important for high-dimension noisy data <br />
